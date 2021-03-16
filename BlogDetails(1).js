@@ -1,5 +1,7 @@
 import React, {useState, useEffect, Component } from 'react';
 
+//sus
+
 import { Button, View, Text, Animated,  AppRegistry,  PanResponder,TouchableHighlight,  StyleSheet,  TouchableOpacity, PixelRatio  } from 'react-native';
 import RNHTMLtoPDF from 'react-native-html-to-pdf';
 import variabili from './variabili';
